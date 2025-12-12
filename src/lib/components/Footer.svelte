@@ -1,8 +1,8 @@
 <section class="py-32 text-center border-b border-white/5">
 	<div class="max-w-[1400px] mx-auto px-6">
-		<h2 class="text-4xl md:text-5xl font-serif mb-12">Unlock Professional Class AI for Your Firm</h2>
+		<h2 class="text-4xl md:text-5xl font-serif mb-12">Ready to Transform Your Office Action Practice?</h2>
 		<button class="bg-white text-black px-8 py-4 rounded text-sm font-medium hover:bg-gray-200 transition-colors">
-			Request a Demo
+			Start Free Trial
 		</button>
 	</div>
 </section>
